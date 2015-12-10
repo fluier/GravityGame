@@ -1,0 +1,4 @@
+#pragma once
+
+#define SCREEN_INDEX_MAINMENU 0;
+#define SCREEN_INDEX_GAMEPLAY 1;
